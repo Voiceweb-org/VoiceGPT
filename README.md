@@ -3,7 +3,7 @@ We believe ChatGPT is a kind of browser of a semantic web. You don't need to int
 
 We are going to build a similar system by using open source large language model. Meanwhile, we are different with ChatGPT, AutoGPT and AgentGPT. 
 
-##The key points include the following
+## The key points include the following
 
 **1. The VoiceGPT is voice based, which means it's conversatonal, but it will focus on voice enabled interaction.**
 
