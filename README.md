@@ -3,15 +3,15 @@ We believe ChatGPT is a kind of browser of a semantic web. You don't need to int
 
 We are going to build a similar system by using open source large language model. Meanwhile, we are different with ChatGPT, AutoGPT and AgentGPT. 
 
-The key points include the following.
+##The key points include the following.##
 
-1. The VoiceGPT is voice based, which means it's conversatonal, but it will focus on voice enabled interaction.
+*1. The VoiceGPT is voice based, which means it's conversatonal, but it will focus on voice enabled interaction.*
 
-2. Actions. VoiceGTP is going to do actions, most focus on interacting with smart Iot Devices.
+*2. Actions. VoiceGTP is going to do actions, most focus on interacting with smart Iot Devices.*
 
-3. Updates. It will not be a restricted system, people are going to use it surfe traditonal internet and get updates.
+*3. Updates. It will not be a restricted system, people are going to use it surfe traditonal internet and get updates.*
 
-4. Openness. Any plugins are able to be registered on it, meanwhile it will havs no censorship.
+*4. Openness. Any plugins are able to be registered on it, meanwhile it will havs no censorship.*
 
-5. Cross Platform. This means it will be able to installed any any devices, like PC, mobile and Smart IoT embeded Devices.
+*5. Cross Platform. This means it will be able to installed any any devices, like PC, mobile and Smart IoT embeded Devices.*
 
