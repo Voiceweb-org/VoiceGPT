@@ -1,12 +1,22 @@
 # VoiceGPT
-We believe ChatGPT is a kind of browser of a semantic web. You don't need to interact with it by clicking hyperlinks, instead you just need to ask it. The ChatGPT has already absorbed all the knowledge of the internet and trained it into a large language model. So, when you use it, you don't need to use any other websites, with only ChatGPT you are able to use all the information of the internet. So, ChatGPT is an interface of the whole information Internet. Now, it also starts to provide plugins, which means the ChatGPT is going to become a MAS(multi Agent System), it's able to do actions. Meanwhile, it's still a kind of browser. The AutoGPT or AgentGPT is trying to make the ChatGPT do more things by putting ChatGPT under it. It looks like they are also going to become next generation web browser.
 
-We are going to build a similar system by using open source large language model. Meanwhile, we are different with ChatGPT, AutoGPT and AgentGPT. 
+We believe ChatGPT is a kind of browser of the semantic web. Instead of traditional hyperlink interactions, it responds to user inquiries, absorbing the entire knowledge accumulated from the internet and integrated into its expansive language model. Consequently, users can access the entirety of the internet's information solely through ChatGPT, making it an effective interface for comprehensive internet information. It has begun offering plugins, suggesting its evolution towards a multi-agent system (MAS), capable of executing actions. Yet, it remains fundamentally a form of browser. Further iterations like AutoGPT or AgentGPT aim to enhance ChatGPT's functionality, positioning it under their umbrella, potentially evolving into next-generation web browsers.
+
+We are in the process of constructing a similar system, utilizing open-source large language models. 
+However, our approach will diverge significantly from the methods employed by ChatGPT, AutoGPT, and AgentGPT.
 
 ## Key Features
 
-* Voice Based. The VoiceGPT is voice based, which means it's conversatonal, but it will focus on voice enabled interaction.
-* Actions. VoiceGTP is going to do actions, most focus on interacting with smart Iot Devices.
-* Updates. It will not be a restricted system, people are going to use it surfe traditonal internet and get updates.
-* Openness. Any plugins are able to be registered on it, meanwhile it will havs no censorship.
-* Cross Platform. This means it will be able to installed any any devices, like PC, mobile and Smart IoT embeded Devices.
+* Voice-First Interaction: VoiceGPT is designed to be conversational with a primary emphasis on voice-enabled interaction.
+* Action-Oriented: The primary focus of VoiceGPT is to execute actions, particularly in interacting with smart IoT devices.
+* Fresh Content and Accuracy: VoiceGPT is not a closed system. It allows users to surf the traditional internet and receive timely updates.
+* Open System: VoiceGPT allows any plugins to register, maintaining an open, uncensored environment. 
+  It facilitates connections beyond just plugins, enabling human interactions as well.
+* Cross-Platform and interoperable Capability: VoiceGPT can be installed on any device, ranging from PCs and mobile devices to smart IoT embedded devices.
+* Customizability: As an internal module, VoiceGPT supports customization in various styles and languages. 
+  Businesses can customize their own VoiceGPT according to their unique utterance preferences.
+  
+
+# Use of VoiceGPT
+VoiceGPT is envisioned as the cognitive core of robots or voice-first smart IoT devices. 
+However, its adaptability extends to installation on personal devices such as smartphones or computers.
