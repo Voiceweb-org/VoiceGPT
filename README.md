@@ -1,6 +1,8 @@
 # VoiceGPT
 
-We believe ChatGPT is a kind of browser of the semantic web. Instead of traditional hyperlink interactions, it responds to user inquiries, absorbing the entire knowledge accumulated from the internet and integrated into its expansive language model. Consequently, users can access the entirety of the internet's information solely through ChatGPT, making it an effective interface for comprehensive internet information. It has begun offering plugins, suggesting its evolution towards a multi-agent system (MAS), capable of executing actions. Yet, it remains fundamentally a form of browser. Further iterations like AutoGPT or AgentGPT aim to enhance ChatGPT's functionality, positioning it under their umbrella, potentially evolving into next-generation web browsers.
+We believe ChatGPT is a kind of browser of the semantic web. Instead of traditional hyperlink interactions, it responds to user inquiries, absorbing the entire knowledge accumulated from the internet and integrated into its expansive language model. Consequently, users can access the entirety of the internet's information solely through ChatGPT, making it an effective interface for comprehensive internet information. 
+
+It has begun offering plugins, suggesting its evolution towards a multi-agent system (MAS), capable of executing actions. Yet, it remains fundamentally a form of browser. Further iterations like AutoGPT or AgentGPT aim to enhance ChatGPT's functionality, positioning it under their umbrella, potentially evolving into next-generation web browsers.
 
 We are in the process of constructing a similar system, utilizing open-source large language models. 
 However, our approach will diverge significantly from the methods employed by ChatGPT, AutoGPT, and AgentGPT.
