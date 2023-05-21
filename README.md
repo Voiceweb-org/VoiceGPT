@@ -25,4 +25,4 @@ However, its adaptability extends to installation on personal devices such as sm
 
 # Architecture
 
-<img width="1105" alt="image" src="https://github.com/Voiceweb-org/VoiceGPT/assets/24785606/48699e47-068d-4c3f-bd88-f6a6a69b6596">
+
