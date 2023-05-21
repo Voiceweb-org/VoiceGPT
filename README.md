@@ -22,3 +22,7 @@ However, our approach will diverge significantly from the methods employed by Ch
 # Use of VoiceGPT
 VoiceGPT is envisioned as the cognitive core of robots or voice-first smart IoT devices. 
 However, its adaptability extends to installation on personal devices such as smartphones or computers.
+
+# Architecture
+
+<img width="1105" alt="image" src="https://github.com/Voiceweb-org/VoiceGPT/assets/24785606/48699e47-068d-4c3f-bd88-f6a6a69b6596">
