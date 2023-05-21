@@ -11,10 +11,10 @@ However, our approach will diverge significantly from the methods employed by Ch
 
 * Voice-First Interaction: VoiceGPT is designed to be conversational with a primary emphasis on voice-enabled interaction.
 * Action-Oriented: The primary focus of VoiceGPT is to execute actions, particularly in interacting with smart IoT devices.
-* Fresh Content and Accuracy: VoiceGPT is not a closed system. It allows users to surf the traditional internet and receive timely updates.
+* Fresh Content: VoiceGPT is not a closed system. It allows users to surf the traditional internet and receive timely updates.
 * Open System: VoiceGPT allows any plugins to register, maintaining an open, uncensored environment. 
   It facilitates connections beyond just plugins, enabling human interactions as well.
-* Cross-Platform and interoperable Capability: VoiceGPT can be installed on any device, ranging from PCs and mobile devices to smart IoT embedded devices.
+* Cross-Platform: VoiceGPT can be installed on any device, ranging from PCs and mobile devices to smart IoT embedded devices.
 * Customizability: As an internal module, VoiceGPT supports customization in various styles and languages. 
   Businesses can customize their own VoiceGPT according to their unique utterance preferences.
   
